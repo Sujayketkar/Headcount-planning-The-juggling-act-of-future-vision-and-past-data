@@ -1,0 +1,2 @@
+# Headcount-planning-The-juggling-act-of-future-vision-and-past-data
+While planning future staffing needs is a critical function for organizations, it often relies heavily on historical data. As an HR Manager, you might find yourself crunching numbers with analysts, but be prepared for curveballs from business leaders. They may ask for headcount figures on specific dates, and sometimes even expect them on the spot.
